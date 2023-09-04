@@ -8,8 +8,10 @@ Links that I keep coming back to for help, whether that be a bookmark or the sam
 - Postgres remote connections: https://blog.devart.com/configure-postgresql-to-allow-remote-connection.html
 
 ### Linux
-- SSH annoying thing: https://www.tecmint.com/ssh-permission-denied-publickey/
+- SSH annoying thing (works for linux too): https://kinsta.com/knowledgebase/warning-remote-host-identification-has-changed/
 - Environment variables: https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/
+- Terminal typing weird thing fix with SSH: https://www.reddit.com/r/linuxquestions/comments/67kyft/ssh_backspace_prints_space_for_every_char_deleted/
+- ASP.NET Core on Debian: https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian
 
 ### Front-end Resources
 - Nord Theme: https://github.com/nordtheme/nord
