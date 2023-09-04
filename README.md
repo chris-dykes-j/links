@@ -10,6 +10,7 @@ Links that I keep coming back to for help, whether that be a bookmark or the sam
 ### Linux
 - SSH annoying thing (works for linux too): https://kinsta.com/knowledgebase/warning-remote-host-identification-has-changed/
 - Environment variables: https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/
+- /env/environment requires a logout/login: https://superuser.com/questions/339617/how-to-reload-etc-environment-without-rebooting
 - Terminal typing weird thing fix with SSH: https://www.reddit.com/r/linuxquestions/comments/67kyft/ssh_backspace_prints_space_for_every_char_deleted/
 - ASP.NET Core on Debian: https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian
 
