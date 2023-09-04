@@ -26,3 +26,4 @@ Links that I keep coming back to for help, whether that be a bookmark or the sam
 
 ### Github Actions
 - C# Self-hosted Server: https://amelspahic.com/deploy-net-6-application-with-github-actions-to-self-hosted-linux-machine-virtual-private-server-raspberry-pi
+- C# Build workflow: https://learn.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/actions-build
