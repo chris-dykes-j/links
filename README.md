@@ -19,6 +19,8 @@ Links that I keep coming back to for help, whether that be a bookmark or the sam
 - Tailwind CSS: https://tailwindcss.com/
 - Font Awesome: https://fontawesome.com/
 - Google Fonts: https://fonts.google.com/
+- Waves man: https://www.shapedivider.app/
+- Lorem Ipsum: https://www.lipsum.com/
 
 ### Nginx
 - Debian 10: https://www.linode.com/docs/guides/how-to-install-nginx-debian-10/
