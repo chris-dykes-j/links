@@ -1,6 +1,15 @@
 # Useful Links
 
-Links that I keep coming back to for help, whether that be a bookmark or the same search over and over. I will continue to update.
+Links that I keep coming back to, whether that be a resource, or an answer to a problem I keep searching for repeatedly. I will continue to update.
+
+### Front-end Resources
+- Nord Theme: https://github.com/nordtheme/nord
+- Tailwind CSS: https://tailwindcss.com/
+- Font Awesome: https://fontawesome.com/
+- Google Fonts: https://fonts.google.com/
+- Waves man: https://www.shapedivider.app/
+- Lorem Ipsum: https://www.lipsum.com/
+- Slideshow: https://photoswipe.com/getting-started/
 
 ### Databases
 - Debian and Postgres: https://wiki.debian.org/PostgreSql
@@ -13,14 +22,6 @@ Links that I keep coming back to for help, whether that be a bookmark or the sam
 - /env/environment requires a logout/login: https://superuser.com/questions/339617/how-to-reload-etc-environment-without-rebooting
 - Terminal typing weird thing fix with SSH: https://www.reddit.com/r/linuxquestions/comments/67kyft/ssh_backspace_prints_space_for_every_char_deleted/
 - ASP.NET Core on Debian: https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian
-
-### Front-end Resources
-- Nord Theme: https://github.com/nordtheme/nord
-- Tailwind CSS: https://tailwindcss.com/
-- Font Awesome: https://fontawesome.com/
-- Google Fonts: https://fonts.google.com/
-- Waves man: https://www.shapedivider.app/
-- Lorem Ipsum: https://www.lipsum.com/
 
 ### Nginx
 - Debian 10: https://www.linode.com/docs/guides/how-to-install-nginx-debian-10/
