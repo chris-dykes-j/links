@@ -11,6 +11,9 @@ Links that I keep coming back to, whether that be a resource, or an answer to a 
 - Lorem Ipsum: https://www.lipsum.com/
 - Slideshow: https://photoswipe.com/getting-started/
 
+### git commands
+- git reset HEAD~ -undo last commit without removing changes
+
 ### Databases
 - Debian and Postgres: https://wiki.debian.org/PostgreSql
 - Arch and Postgres: https://wiki.archlinux.org/title/PostgreSQL
