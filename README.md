@@ -34,3 +34,7 @@ Links that I keep coming back to, whether that be a resource, or an answer to a 
 ### Github Actions
 - C# Self-hosted Server: https://amelspahic.com/deploy-net-6-application-with-github-actions-to-self-hosted-linux-machine-virtual-private-server-raspberry-pi
 - C# Build workflow: https://learn.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/actions-build
+
+### More Git
+- Setup git server: https://www.baeldung.com/linux/git-server-set-up
+- Alt git server how to: https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server
