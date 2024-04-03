@@ -25,6 +25,7 @@ Links that I keep coming back to, whether that be a resource, or an answer to a 
 - /env/environment requires a logout/login: https://superuser.com/questions/339617/how-to-reload-etc-environment-without-rebooting
 - Terminal typing weird thing fix with SSH: https://www.reddit.com/r/linuxquestions/comments/67kyft/ssh_backspace_prints_space_for_every_char_deleted/
 - ASP.NET Core on Debian: https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian
+- Rename files how to: https://www.baeldung.com/linux/renaming-files-in-batches
 
 ### Nginx
 - Debian 10: https://www.linode.com/docs/guides/how-to-install-nginx-debian-10/
