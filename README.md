@@ -14,10 +14,11 @@ Links that I keep coming back to, whether that be a resource, or an answer to a 
 ### git commands
 - git reset HEAD~ -undo last commit without removing changes
 
-### Databases
+### Postgres
 - Debian and Postgres: https://wiki.debian.org/PostgreSql
 - Arch and Postgres: https://wiki.archlinux.org/title/PostgreSQL
 - Postgres remote connections: https://blog.devart.com/configure-postgresql-to-allow-remote-connection.html
+- Full-Text Search: https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database
 
 ### Linux
 - SSH annoying thing (works for linux too): https://kinsta.com/knowledgebase/warning-remote-host-identification-has-changed/
